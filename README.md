@@ -9,6 +9,9 @@
 - Coding Languages: Java, C++, Python, HTML, JavaScript
 - Skills: Teamwork, Communication, Leadership, Project Breakdown, Data Structures
 
+
+**Please let me know if you're a recruiter, so I can allow you to see my private repos from school projects/assignements. I've created fun projects, but they must remain private to respect the Academic Honestly Policy of my school. Thank you for understanding!**
+
 <!---
 oav27/oav27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
