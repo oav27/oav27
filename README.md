@@ -4,14 +4,13 @@
 - 💞️ I’m looking to collaborate on anything that can help me learn about the industry relating to tech in entertainment!
 - 📫 How to reach me: go to my LinkedIn to message or email me!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Fav movies are _Star Wars: The Empire Strikes Back _ and _The Emperor's New Groove__!
+- ⚡ Fun fact: Fav movies are *Star Wars: The Empire Strikes Back* and *The Emperor's New Groove*!
 
 - 👩‍💻 Coding Languages: Java, C++, Python, HTML, JavaScript
 - ✨ Skills: Teamwork, Communication, Leadership, Project Breakdown, Data Structures
 
 ---
-
-**Please let me know if you're a recruiter, so I can allow you to see my private repos from school projects/assignements. I've created fun projects, but they must remain private to respect the Academic Honesty Policy of my school. Thank you for understanding!**
+**Make sure to check out my website (currently under construction) to see more of my sporadic artistic side! Thank you! Enjoy!**
 
 <!---
 oav27/oav27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
