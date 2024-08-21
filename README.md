@@ -10,7 +10,7 @@
 - ✨ Skills: Teamwork, Communication, Leadership, Project Breakdown, Data Structures
 
 ---
-**Make sure to check out my website (currently under construction) to see more of my sporadic artistic side! Thank you! Enjoy!**
+**Make sure to check out my website to see more of my sporadic artistic side! Thank you! Enjoy!**
 
 <!---
 oav27/oav27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
