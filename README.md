@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oav27
 - 👀 I’m interested in all things that have to do with Computer Sciene and Film! I love CGI, Visual Effects... basically all the technical behind animation and visual effects!
 - 🌱 I’m currently learning advanced programming!
-- 💞️ I’m looking to collaborate on anything that can help me learn about the industry relating to tech in entertainment!
+- 💞️ I’m looking to collaborate on anything that can help me learn about the industry relating to tech in entertainment and design!
 - 📫 How to reach me: go to my LinkedIn to message or email me!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Fav movies are *Star Wars: The Empire Strikes Back* and *The Emperor's New Groove*!
