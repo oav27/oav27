@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Fav movies are *Star Wars: The Empire Strikes Back* and *The Emperor's New Groove*!
 
-- 👩‍💻 Coding Languages: Java, C++, Python, HTML, JavaScript
+- 👩‍💻 Coding Languages: Java, C, C++, Python, HTML, JavaScript
 - ✨ Skills: Teamwork, Communication, Leadership, Project Breakdown, Data Structures
 
 ---
