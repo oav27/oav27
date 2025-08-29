@@ -7,7 +7,7 @@
 - ⚡ <ins>Fun fact:</ins> Fav movies are *Star Wars: The Empire Strikes Back*, *The Emperor's New Groove*, and *Shark Tales*!
 
 - 👩‍💻 <ins>Coding Languages:</ins> Java, C, C++, C#, Python, HTML, JavaScript
-- ✨ <ins>Skills</ins> Teamwork, Communication, Leadership, Project Breakdown, Data Structures, Problem Solving, Self Motivation, and more!
+- ✨ <ins>Skills:</ins> Teamwork, Communication, Leadership, Project Breakdown, Data Structures, Problem Solving, Self Motivation, and more!
 
 ---
 ### **Make sure to check out my [website](https://linktr.ee/oliv270) to see more of my sporadic artistic side! Thank you! Enjoy!**
