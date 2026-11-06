@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oav27
-- 👀 I’m interested in all things that have to do with Computer Sciene, AI, Analytics, and Research! I love understanding how tech can solve our problems and only enhance our abilities to accomplish great things!!
+- 👀 I’m interested in all things that have to do with Computer Science, AI, Analytics, and Research! I love understanding how tech can solve our problems and only enhance our abilities to accomplish great things!!
 - 💞️ I’m looking to collaborate on anything that can help me learn about the industry relating to tech, strategy, and analytics!
 - 📫 <ins>How to reach me:</ins> go to my [LinkedIn](https://www.linkedin.com/in/olivia-a-494759269) to message or email me!
 - 😄 <ins>Pronouns:</ins> She/Her
